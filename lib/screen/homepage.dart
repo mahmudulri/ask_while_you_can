@@ -131,7 +131,7 @@ class _HomepageState extends State<Homepage> {
                         color: Colors.white,
                         borderRadius: BorderRadius.all(Radius.circular(20)),
                       ),
-                      height: 250,
+//                       height: 250,
                       width: MediaQuery.of(context).size.width / 1.2,
                       child: Center(
                         child: Padding(
